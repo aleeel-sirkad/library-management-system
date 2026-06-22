@@ -1,0 +1,9 @@
+# Library Management System
+# Python 3.10+ recommended
+#
+# All dependencies are from the Python standard library:
+# - sqlite3 (database)
+# - unittest (testing)
+# - dataclasses, datetime, re, pathlib (utilities)
+#
+# No external packages are required.
