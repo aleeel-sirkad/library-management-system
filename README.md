@@ -47,7 +47,7 @@ The application is organized into separate modules for database access, data mod
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/aleeel-sirkad/library-management-system.git
    cd library-management-system
    ```
 
